@@ -6,26 +6,27 @@
 
 Conducted a comprehensive statistical analysis of business data for a cement trader firm, M.B.D. located in Rajgir,Bihar .focusing on key performance indicators, market trends, and operational patterns. Identified critical business problems including target sales shortfall analysis, overall performance assessment, customer segmentation, market trends, and key performance indicators (KPIs) analysis.
 # Project Structure
-  1.Proposal
-    - Provides an introduction to the project, outlining the objectives and the approach.
-    - Highlights the primary challenges faced by M.B.D  Traders.
-    - Available in [Proposal.pdf](link to bdm project/PROJECT PROPOSAL REPORT BDM.pdf).
-  2. Mid-Term Submission
 
-    - Contains an executive summary, proof of data originality, metadata, descriptive statistics, and a detailed explanation of the analysis process.
-    - Discusses initial findings and outlines the methodology used for data collection and cleaning.
-    - Available in [BDM Mid-Term Submission Doc.pdf](link to BDM Mid-Term Submission Doc.pdf).
-3. End-Term Submission
+    1.Proposal
+      - Provides an introduction to the project, outlining the objectives and the approach.
+      - Highlights the primary challenges faced by M.B.D  Traders.
+      - Available in [Proposal.pdf](link to bdm project/PROJECT PROPOSAL REPORT BDM.pdf).
+   2. Mid-Term Submission
 
-    - Includes a comprehensive analysis of the data, results, and findings.
-    - Provides detailed insights into customer preferences, sales trends, and inventory management.
-    - Offers recommendations for optimizing operations and improving business strategies.
-    - Available in [BDM End-Term Submission Doc.pdf](link to BDM End-Term Submission Doc.pdf).
- 4.  Final Presentation
+      - Contains an executive summary, proof of data originality, metadata, descriptive statistics, and a detailed explanation of the analysis process.
+      - Discusses initial findings and outlines the methodology used for data collection and cleaning.
+      - Available in [BDM Mid-Term Submission Doc.pdf](link to BDM Mid-Term Submission Doc.pdf).
+  3. End-Term Submission
 
-    - Summarizes the project, including the problem statement, data analysis, and recommendations.
-    - Uses visual aids such as charts and graphs to present the data effectively.
-    - Available in [BDM Final Presentation.pdf](link to BDM Final Presentation.pdf).
+      - Includes a comprehensive analysis of the data, results, and findings.
+      - Provides detailed insights into customer preferences, sales trends, and inventory management.
+      - Offers recommendations for optimizing operations and improving business strategies.
+      - Available in [BDM End-Term Submission Doc.pdf](link to BDM End-Term Submission Doc.pdf).
+    4.  Final Presentation
+
+      - Summarizes the project, including the problem statement, data analysis, and recommendations.
+      - Uses visual aids such as charts and graphs to present the data effectively.
+      - Available in [BDM Final Presentation.pdf](link to BDM Final Presentation.pdf).
 
 # Key Highlights:
 1. Analysis of months with target sales shortfall.
